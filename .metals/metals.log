@@ -21,3 +21,14 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@58ef0c7
 2024.06.22 20:00:37 INFO  compiling scala-lab-session-2_f4dd477a3a (1 scala source)
 2024.06.22 20:00:37 INFO  time: compiled Scala-Lab-session-2_f4dd477a3a in 0.79s
 2024.06.22 20:00:40 INFO  time: indexed workspace in 3.76s
+2024.06.22 20:10:03 INFO  time: Imported build in 0.4s
+2024.06.22 20:10:05 INFO  time: indexed workspace in 1.37s
+2024.06.22 20:10:05 WARN  no build target for: C:\Users\USER\Downloads\Scala-Lab-session-2\Q1.scala
+2024.06.22 20:10:07 INFO  compiling scala-lab-session-2_f4dd477a3a (1 scala source)
+2024.06.22 20:10:07 INFO  time: compiled Scala-Lab-session-2_f4dd477a3a in 0.38s
+2024.06.22 20:10:08 INFO  time: indexed workspace in 1.35s
+2024.06.22 20:12:03 INFO  Shutting down server
+2024.06.22 20:12:03 INFO  shutting down Metals
+2024.06.22 20:12:03 INFO  Shut down connection with build server.
+2024.06.22 20:12:03 INFO  BSP server: Jun 22, 2024 8:12:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.06.22 20:12:03 INFO  Exiting server
